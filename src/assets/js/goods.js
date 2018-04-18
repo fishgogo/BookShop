@@ -1,7 +1,7 @@
 var goodData = [
 {
   "id": 1000299,
-  "name":"Smartisan 快充移动电源 10000mAh",
+  "name":"神迹",
   "price":199.00,"sale_status":3,
   "product_info":
   {

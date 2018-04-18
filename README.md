@@ -8,5 +8,5 @@ $ npm install
 
 $ npm run dev
 
-<iframe height=500 width=500 src="https://github.com/fishgogo/BookShop/blob/master/static/record.gif">
+![avatar](https://github.com/fishgogo/BookShop/blob/master/static/record.gif)
 
